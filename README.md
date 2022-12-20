@@ -27,3 +27,4 @@
   
  
 </div>
+![Snake animation](https://github.com/LuizJoliver/LuizJoliver/blob/output/github-contribution-grid-snake.svg)
