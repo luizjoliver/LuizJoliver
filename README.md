@@ -3,6 +3,7 @@
 - 🌐 HTML5,CSS3(Sass,tailwind),ReactJS,NodeJs(Express).
 - <img align="center" alt="Luiz-js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
  <img align="center" alt="Luiz-js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript
+ <img align="center" alt="Luiz-js" height="35" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"> NextJs
 - 📧 Contact: luizfellipejoliver14@gmail.com  
 - 📮 Linkedin: https://www.linkedin.com/in/luiz-fellipe-joliver-801a84241/
 
