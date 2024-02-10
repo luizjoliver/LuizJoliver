@@ -29,9 +29,12 @@
 <br/>
 <h2> Back-end </h2>
 <div style="display: inline_block">
+ 
   <img align="center" alt="luiz-node"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="luiz-express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
    <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ 
 </div>
 <br/>
 <br/>
