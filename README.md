@@ -33,7 +33,8 @@
   <img align="center" alt="luiz-node"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="luiz-express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
-   <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="luiz-docker"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  
 </div>
 <br/>
@@ -63,11 +64,17 @@
   <h2> Developing Skills</h2>
   <div style="display: inline_block">
   <img align="center" alt="luiz-nest"  src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="luiz-remix"  src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white">
-  <img align="center" alt="luiz-docker"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-   <img align="center" alt="luiz-graphql"  src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-
 </div>
+
+<h2> Developing Secondary Stack</h2>
+  <div style="display: inline_block">
+
+   <img align="center" alt="luiz-java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img align="center" alt="luiz-java-spring-boot"  src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+   <img align="center" alt="luiz-java-junit5"  src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+</div>
+
+  
 <br/>
 <br/>
 <br/>
