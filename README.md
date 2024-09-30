@@ -64,14 +64,16 @@
   <h2> Developing Skills</h2>
   <div style="display: inline_block">
   <img align="center" alt="luiz-nest"  src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img align="center" alt="luiz-aws"  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
 <h2> Developing Secondary Stack</h2>
   <div style="display: inline_block">
-
-   <img align="center" alt="luiz-java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img align="center" alt="luiz-java-spring-boot"  src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-   <img align="center" alt="luiz-java-junit5"  src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+   
+   <img align="center" alt="luiz-csharp"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   <img align="center" alt="luiz-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+   <img align="center" alt="luiz-dotnet"  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  
 </div>
 
   
