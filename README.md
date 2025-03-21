@@ -8,7 +8,7 @@
 
 - 📧 Contact: luizfellipejoliver14@gmail.com  
 - 📮 Linkedin: https://www.linkedin.com/in/luiz-fellipe-joliver-801a84241/
-- 🖥️ Portifólio : [luizjoliver.vercel.app](https://luizjoliver.vercel.app/)
+- 🖥️ Portifólio : [www.luizjoliver.com](https://www.luizjoliver.com)
 ##
 <div>
   <a href="https://github.com/luizjoliver">
