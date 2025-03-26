@@ -1,13 +1,10 @@
 ### Luiz Joliver profile👋
-- 🎓 Student on CEUB in Analysis and Systems Development
 - 🌐 Web Developer.
-- <img align="center" alt="Luiz-js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
- <img align="center" alt="Luiz-js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript
- <img align="center" alt="Luiz-js" height="35" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"> NextJs
- <img align="center" alt="Luiz-js" height="35" width="55" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">Git
-
+- 🎓 Degree in Analysis and Systems Development on CEUB
+- 👨‍💻 I'm Software Engineer with 2+ years of experience.
+- 💚 Techs: TypeScript, NodeJS, React, Next.js, Nestjs, AWS, AngularJS, Javascript ...
 - 📧 Contact: luizfellipejoliver14@gmail.com  
-- 📮 Linkedin: https://www.linkedin.com/in/luiz-fellipe-joliver-801a84241/
+- 📮 Linkedin: [https://www.linkedin.com/in/luiz-fellipe-joliver-801a84241/](https://www.linkedin.com/in/luiz-fellipe-joliver/)
 - 🖥️ Portifólio : [www.luizjoliver.com](https://www.luizjoliver.com)
 ##
 <div>
@@ -16,13 +13,26 @@
 </div>
 <br/>
   </div>
+
+   <h2>Main Tech Stack 💻</h2>
+  <div style="display: inline_block">
+   
+   [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,nest,aws,typescript,postgres,tailwind,prisma&perline=3)](https://skillicons.dev)
+</div>
+
+ <h2>Second Tech Stack 💻</h2>
+  <div style="display: inline_block">
+   
+   [![My Skills](https://skillicons.dev/icons?i=angular,mysql,cs,dotnet,mongodb,sass&perline=3)](https://skillicons.dev)
+</div>
+
   <h2> Front-end </h2>
 <div style="display: inline_block">
-  <img align="center" alt="luiz-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="luiz-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="luiz-Next"  src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img align="center" alt="luiz-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="luiz-angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="luiz-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   
 </div>
 <br/>
@@ -31,11 +41,11 @@
 <div style="display: inline_block">
  
   <img align="center" alt="luiz-node"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="luiz-fastify"  src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="luiz-express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
-  <img align="center" alt="luiz-ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="luiz-docker"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
- 
+  <img align="center" alt="luiz-fastify"  src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
+  <img align="center" alt="luiz-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img align="center" alt="luiz-dotnet"  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 <br/>
 <br/>
@@ -45,7 +55,7 @@
   <img align="center" alt="luiz-sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="luiz-tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="luiz-chackraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
-   <img align="center" alt="luiz-material" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+   <img align="center" alt="luiz-material" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
  
 
 </div>
@@ -61,20 +71,17 @@
 </div>
 <br/>
 <br/>
-  <h2> Developing Skills</h2>
-  <div style="display: inline_block">
-  <img align="center" alt="luiz-nest"  src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="luiz-aws"  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+<h2> Outras Ferramentas </h2>
+<div style="display: inline_block">
+  <img align="center" alt="luiz-mysql"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="luiz-postgres"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="luiz-prisma"  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img align="center" alt="luiz-mongodb"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>
 
-<h2> Developing Secondary Stack</h2>
-  <div style="display: inline_block">
-   
-   <img align="center" alt="luiz-csharp"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-   <img align="center" alt="luiz-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-   <img align="center" alt="luiz-dotnet"  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  
-</div>
+
+
 
   
 <br/>
@@ -86,6 +93,7 @@
  <div align="center">
   <a href="https://www.linkedin.com/in/luiz-fellipe-joliver-801a84241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:luizfellipejoliver14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://www.luizjoliver.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
  </div>
   
 
