@@ -2,7 +2,8 @@
 - 🌐 Web Developer.
 - 🎓 Degree in Analysis and Systems Development on CEUB
 - 👨‍💻 I'm Software Engineer with 2+ years of experience.
-- 💚 Techs: TypeScript, NodeJS, React, Next.js, Nestjs, AWS, AngularJS, Javascript ...
+- 💚 First Stack: TypeScript/Javascript , NodeJS, React, Next.js, Nestjs, MySQL, Docker, AWS 
+- 💙 Second Stack: AngularJS ,C# ,.NET ,PostgreSQL
 - 📧 Contact: luizfellipejoliver14@gmail.com  
 - 📮 Linkedin: [https://www.linkedin.com/in/luiz-fellipe-joliver-801a84241/](https://www.linkedin.com/in/luiz-fellipe-joliver/)
 - 🖥️ Portifólio : [www.luizjoliver.com](https://www.luizjoliver.com)
